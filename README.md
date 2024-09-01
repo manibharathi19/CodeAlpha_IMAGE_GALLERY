@@ -12,9 +12,6 @@ A responsive web page that showcases a collection of images. It features a scrol
 
 - [Mani Bharathi](https://github.com/manibharathi19)
 - 
-##DEMO
-
-- https://manibharathi19.github.io/CodeAlpha_IMAGE_GALLERY/
 
     
 ## Getting Started
